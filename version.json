@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.4/AlexiaMusic-v1.4.apk",
-  "changelog": "Nová animovaná úvodná obrazovka. Opravený pád aplikácie pri štarte.",
+  "versionCode": 5,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.5/AlexiaMusic-v1.5.apk",
+  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.8.19. Vylepšenia a opravy chýb.",
   "ytDlpVersion": "2026.8.19",
   "sizeMb": "49",
   "releaseDate": "2026-09-13"
