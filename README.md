@@ -75,6 +75,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 
 ## Pripravujeme
 
+- ⬜ Prehrávanie videí
 - ⬜ Playlisty a vlastné zoznamy skladieb
 - ⬜ Hromadné sťahovanie viacerých skladieb naraz
 - ⬜ Podpora starších telefónov
