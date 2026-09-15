@@ -2,7 +2,7 @@
 
 Hudobný prehrávač pre Android s podporou offline počúvania a slovenských rádií.
 
-**Aktuálna verzia: 1.7.1**
+**Aktuálna verzia: 1.8**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
 
@@ -89,7 +89,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 | 1.4 | Úvodná animácia, oprava pádu pri štarte | vydané |
 | 1.5 | Tlačidlo Preskočiť pri aktualizácii | vydané |
 | 1.6 | Spoľahlivá kontrola dostupnosti novej verzie | vydané |
-| **1.7.1** | Ekvalizér, priestorový zvuk 8D, vyhľadávanie v knižnici | **aktuálna** |
+| **1.8** | Ekvalizér, priestorový zvuk 8D, vyhľadávanie v knižnici | **aktuálna** |
 
 ---
 
