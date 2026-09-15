@@ -2,7 +2,7 @@
 
 Hudobný prehrávač pre Android s podporou offline počúvania a slovenských rádií.
 
-**Aktuálna verzia: 1.6**
+**Aktuálna verzia: 1.7.1**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
 
@@ -19,6 +19,14 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 - ✅ Slovenské rádiá – živé vysielanie
 - ✅ Prehrávanie sa nepreruší, keď telefón zaspí
 
+### Zvuk
+- ✅ Ekvalizér s hotovými predvoľbami (Normálny, Klasika, Dance, Rock a ďalšie)
+- ✅ Vlastné nastavenie každého frekvenčného pásma
+- ✅ Zosilnené basy
+- ✅ Priestorový zvuk 8D – zvuk sa plynule otáča z pravej strany cez stred do ľavej
+- ✅ Nastaviteľná rýchlosť otáčania a sila efektu
+- ✅ Efekty bežia na zvukovom čipe telefónu, takže nezaťažujú batériu
+
 ### Sťahovanie a offline režim
 - ✅ Sťahovanie skladieb do telefónu
 - ✅ Stiahnutá skladba sa prehráva vždy z mobilu – nulové dáta
@@ -28,7 +36,9 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 
 ### Knižnica
 - ✅ Ukladanie skladieb do vlastnej knižnice
+- ✅ Vyhľadávanie priamo v knižnici
 - ✅ Zelená značka pri stiahnutých skladbách
+- ✅ Zmazanie iba stiahnutého súboru – skladba zostane v knižnici
 - ✅ Mazanie skladby vrátane súboru v telefóne
 - ✅ Obľúbené skladby na úvodnej obrazovke
 
@@ -48,7 +58,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 - ✅ Tlačidlo Preskočiť – verzia sa už viac neponúka
 
 ### Rýchlosť a veľkosť
-- ✅ Zmenšenie zo 66 MB na 48,5 MB
+- ✅ Zmenšenie zo 66 MB na 49 MB
 - ✅ Odstránený nepoužívaný kód a zdroje
 - ✅ Jedno univerzálne APK pre všetky moderné telefóny
 
@@ -66,9 +76,6 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 ## Pripravujeme
 
 - ⬜ Playlisty a vlastné zoznamy skladieb
-- ⬜ Vyhľadávanie priamo v knižnici
-- ⬜ Zmazať iba stiahnutý súbor a skladbu nechať v knižnici
-- ⬜ Ekvalizér a nastavenie kvality zvuku
 - ⬜ Hromadné sťahovanie viacerých skladieb naraz
 - ⬜ Podpora starších telefónov
 
@@ -81,7 +88,8 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 | 1.3 | Prvé vydanie | vydané |
 | 1.4 | Úvodná animácia, oprava pádu pri štarte | vydané |
 | 1.5 | Tlačidlo Preskočiť pri aktualizácii | vydané |
-| **1.6** | Spoľahlivá kontrola dostupnosti novej verzie | **aktuálna** |
+| 1.6 | Spoľahlivá kontrola dostupnosti novej verzie | vydané |
+| **1.7.1** | Ekvalizér, priestorový zvuk 8D, vyhľadávanie v knižnici | **aktuálna** |
 
 ---
 
