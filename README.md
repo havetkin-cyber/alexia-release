@@ -1,10 +1,32 @@
-# 🎵 Alexia Music
+# 🎵 Alexia Music Player
 
-Hudobný prehrávač pre Android s podporou offline počúvania a slovenských rádií.
+Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a českých rádií.
 
 **Aktuálna verzia: 1.8**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
+
+---
+
+## 🌙 Pripravuje sa – vyjde zajtra ráno
+
+Nasledujúca verzia sa zostaví automaticky **o 4:00 ráno** a aplikácia ti ju sama ponúkne.
+
+### Nový názov aplikácie
+- Na ploche telefónu sa už nebude volať `alexiacore`, ale **Alexia Music Player**
+
+### České rádiá
+- Pribudne **32 českých staníc** – Český rozhlas, Impuls, Evropa 2, Frekvence 1, Blaník, Kiss, Beat, Rock Radio, Country, Fajn, Radio 1, Expres FM, Spin, Čas, City, Signál, Krokodýl, Orion, HEY, Relax, Bonton, Classic Praha, COLOR Music a ďalšie
+- Každý stream bol pred vložením **naozaj otestovaný** – overilo sa, či z neho tečie zvuk
+
+### Rádiá sa rozdelia podľa krajín
+- Dve rozkladacie sekcie: **Slovenské rádiá** a **České rádiá**
+- Ťuknutím na nadpis sa sekcia otvorí alebo zbalí
+- Pri každej sekcii je vidieť počet staníc
+- Vyhľadávanie prehľadáva obe krajiny naraz a sekcie sa pritom otvoria samy
+
+### Pod kapotou
+- Opravených 40 upozornení v kóde – čistejší a stabilnejší základ
 
 ---
 
@@ -56,6 +78,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 - ✅ Sťahovanie s ukazovateľom priebehu
 - ✅ Okno sa zobrazí len ak je dostupná novšia verzia
 - ✅ Tlačidlo Preskočiť – verzia sa už viac neponúka
+- ✅ Nová verzia sa zostaví sama každé ráno, ak je čo vydávať
 
 ### Rýchlosť a veľkosť
 - ✅ Zmenšenie zo 66 MB na 49 MB
@@ -73,7 +96,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 
 ---
 
-## Pripravujeme
+## Pripravujeme neskôr
 
 - ⬜ Prehrávanie videí
 - ⬜ Playlisty a vlastné zoznamy skladieb
@@ -91,6 +114,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania a slovenských r
 | 1.5 | Tlačidlo Preskočiť pri aktualizácii | vydané |
 | 1.6 | Spoľahlivá kontrola dostupnosti novej verzie | vydané |
 | **1.8** | Ekvalizér, priestorový zvuk 8D, vyhľadávanie v knižnici | **aktuálna** |
+| ďalšia | České rádiá, nový názov aplikácie | zajtra o 4:00 |
 
 ---
 
