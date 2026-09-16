@@ -1,8 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.8/AlexiaMusic-v1.8.apk",
-  "changelog": "Ekvalizér s predvoľbami aj vlastným nastavením. Priestorový zvuk 8D s otáčaním zvuku. Vyhľadávanie v knižnici. Mazanie iba stiahnutého súboru.",
+  "versionCode": 10,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.10/AlexiaMusic-v1.10.apk",
+  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.8.19. Vylepšenia a opravy chýb.",
+  "ytDlpVersion": "2026.8.19",
   "sizeMb": "49",
-  "releaseDate": "2026-09-15"
+  "releaseDate": "2026-09-16"
 }
