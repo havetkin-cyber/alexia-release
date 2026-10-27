@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.13/AlexiaMusic-v1.13.apk",
-  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.21. Vylepšenia a opravy chýb.",
-  "ytDlpVersion": "2026.10.21",
+  "versionCode": 14,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.14/AlexiaMusic-v1.14.apk",
+  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+  "ytDlpVersion": "2026.10.26",
   "sizeMb": "50",
-  "releaseDate": "2026-10-22"
+  "releaseDate": "2026-10-27"
 }
