@@ -1,13 +1,13 @@
 {
-  "versionCode": 16,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.16/AlexiaMusic-v1.16.apk",
-  "changelog": "Domovská stránka bez zoznamu obľúbených – tvoje skladby nájdeš v Knižnici. Popis aktualizácie sa teraz zobrazuje v jazyku appky. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+  "versionCode": 17,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.17/AlexiaMusic-v1.17.apk",
+  "changelog": "Nové: skladbu môžeš prehrať ako zvuk alebo ako video – ikona videa pri výsledkoch hľadania a v Top 5, prepínač Skladba/Video v prehrávači. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
   "changelog_i18n": {
-    "sk": "Domovská stránka bez zoznamu obľúbených – tvoje skladby nájdeš v Knižnici. Popis aktualizácie sa teraz zobrazuje v jazyku appky. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
-    "en": "Home page without the favourites list – your songs are in the Library. Update notes are now shown in the app's language. Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
-    "de": "Startseite ohne Favoritenliste – deine Titel findest du in der Bibliothek. Die Update-Hinweise werden jetzt in der Sprache der App angezeigt. Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
-    "hu": "Kezdőlap a kedvencek listája nélkül – a számaidat a Könyvtárban találod. A frissítés leírása mostantól az alkalmazás nyelvén jelenik meg. A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
+    "sk": "Nové: skladbu môžeš prehrať ako zvuk alebo ako video – ikona videa pri výsledkoch hľadania a v Top 5, prepínač Skladba/Video v prehrávači. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+    "en": "New: play a song as audio or as video – video icon in search results and Top 5, Song/Video switch in the player. Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
+    "de": "Neu: Titel als Ton oder als Video abspielen – Video-Symbol in den Suchergebnissen und in den Top 5, Umschalter Titel/Video im Player. Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
+    "hu": "Újdonság: a számot hangként vagy videóként is lejátszhatod – videó ikon a találatoknál és a Top 5-ben, Szám/Videó kapcsoló a lejátszóban. A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
   },
   "ytDlpVersion": "2026.10.26",
   "sizeMb": "50",
