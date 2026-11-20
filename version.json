@@ -1,13 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.17/AlexiaMusic-v1.17.apk",
-  "changelog": "Nové: skladbu môžeš prehrať ako zvuk alebo ako video – ikona videa pri výsledkoch hľadania a v Top 5, prepínač Skladba/Video v prehrávači. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+  "versionCode": 18,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.18/AlexiaMusic-v1.18.apk",
+  "changelog": "Prepnutie Skladba/Video je okamžité – hudba sa nepreruší, obraz sa načíta vopred. Video sa dá roztiahnuť na celú obrazovku. Prehrávač sa už nezavrie pri otočení mobilu. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
   "changelog_i18n": {
-    "sk": "Nové: skladbu môžeš prehrať ako zvuk alebo ako video – ikona videa pri výsledkoch hľadania a v Top 5, prepínač Skladba/Video v prehrávači. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
-    "en": "New: play a song as audio or as video – video icon in search results and Top 5, Song/Video switch in the player. Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
-    "de": "Neu: Titel als Ton oder als Video abspielen – Video-Symbol in den Suchergebnissen und in den Top 5, Umschalter Titel/Video im Player. Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
-    "hu": "Újdonság: a számot hangként vagy videóként is lejátszhatod – videó ikon a találatoknál és a Top 5-ben, Szám/Videó kapcsoló a lejátszóban. A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
+    "sk": "Prepnutie Skladba/Video je okamžité – hudba sa nepreruší, obraz sa načíta vopred. Video sa dá roztiahnuť na celú obrazovku. Prehrávač sa už nezavrie pri otočení mobilu. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+    "en": "Switching Song/Video is instant – the music never stops, the picture is preloaded. Video can be expanded to full screen. The player no longer closes when you rotate the phone. Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
+    "de": "Umschalten Titel/Video ist sofort – die Musik läuft weiter, das Bild wird vorgeladen. Videos lassen sich im Vollbild ansehen. Der Player schließt sich beim Drehen des Handys nicht mehr. Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
+    "hu": "A Szám/Videó váltás azonnali – a zene nem szakad meg, a kép előre betöltődik. A videó teljes képernyőre nagyítható. A lejátszó már nem zárul be a telefon elforgatásakor. A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
   },
   "ytDlpVersion": "2026.10.26",
   "sizeMb": "50",
