@@ -1,8 +1,14 @@
 {
-  "versionCode": 15,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.15/AlexiaMusic-v1.15.apk",
-  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+  "versionCode": 16,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.16/AlexiaMusic-v1.16.apk",
+  "changelog": "Domovská stránka bez zoznamu obľúbených – tvoje skladby nájdeš v Knižnici. Popis aktualizácie sa teraz zobrazuje v jazyku appky. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+  "changelog_i18n": {
+    "sk": "Domovská stránka bez zoznamu obľúbených – tvoje skladby nájdeš v Knižnici. Popis aktualizácie sa teraz zobrazuje v jazyku appky. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+    "en": "Home page without the favourites list – your songs are in the Library. Update notes are now shown in the app's language. Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
+    "de": "Startseite ohne Favoritenliste – deine Titel findest du in der Bibliothek. Die Update-Hinweise werden jetzt in der Sprache der App angezeigt. Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
+    "hu": "Kezdőlap a kedvencek listája nélkül – a számaidat a Könyvtárban találod. A frissítés leírása mostantól az alkalmazás nyelvén jelenik meg. A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
+  },
   "ytDlpVersion": "2026.10.26",
   "sizeMb": "50",
   "releaseDate": "2026-11-20"
