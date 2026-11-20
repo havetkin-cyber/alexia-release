@@ -1,13 +1,13 @@
 {
-  "versionCode": 18,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.18/AlexiaMusic-v1.18.apk",
-  "changelog": "Prepnutie Skladba/Video je okamžité – hudba sa nepreruší, obraz sa načíta vopred. Video sa dá roztiahnuť na celú obrazovku. Prehrávač sa už nezavrie pri otočení mobilu. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+  "versionCode": 19,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.19/AlexiaMusic-v1.19.apk",
+  "changelog": "Bezpečnosť: appka už nemá oprávnenie inštalovať aplikácie – aktualizáciu stiahne prehliadač. Nešifrované spojenie je povolené už len pre niektoré rádiá. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
   "changelog_i18n": {
-    "sk": "Prepnutie Skladba/Video je okamžité – hudba sa nepreruší, obraz sa načíta vopred. Video sa dá roztiahnuť na celú obrazovku. Prehrávač sa už nezavrie pri otočení mobilu. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
-    "en": "Switching Song/Video is instant – the music never stops, the picture is preloaded. Video can be expanded to full screen. The player no longer closes when you rotate the phone. Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
-    "de": "Umschalten Titel/Video ist sofort – die Musik läuft weiter, das Bild wird vorgeladen. Videos lassen sich im Vollbild ansehen. Der Player schließt sich beim Drehen des Handys nicht mehr. Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
-    "hu": "A Szám/Videó váltás azonnali – a zene nem szakad meg, a kép előre betöltődik. A videó teljes képernyőre nagyítható. A lejátszó már nem zárul be a telefon elforgatásakor. A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
+    "sk": "Bezpečnosť: appka už nemá oprávnenie inštalovať aplikácie – aktualizáciu stiahne prehliadač. Nešifrované spojenie je povolené už len pre niektoré rádiá. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+    "en": "Security: the app no longer has permission to install apps – updates are downloaded by your browser. Unencrypted connections are only allowed for a few radio stations. Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
+    "de": "Sicherheit: Die App darf keine Apps mehr installieren – Updates lädt der Browser herunter. Unverschlüsselte Verbindungen sind nur noch für einige Radiosender erlaubt. Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
+    "hu": "Biztonság: az alkalmazásnak már nincs engedélye alkalmazásokat telepíteni – a frissítést a böngésző tölti le. Titkosítatlan kapcsolat már csak néhány rádióhoz engedélyezett. A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
   },
   "ytDlpVersion": "2026.10.26",
   "sizeMb": "50",
