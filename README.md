@@ -8,44 +8,26 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 
 ---
 
-## 🆕 Novinky vo verziách 1.14 – 1.19
+## 🆕 Novinky vo verzii 1.19
 
-### Video (1.17 – 1.18)
+### Video
 - ✅ Pri skladbe si vyberieš, či chceš počúvať **skladbu** alebo pozerať **video**
 - ✅ **Okamžité prepnutie** medzi skladbou a videom – zvuk hrá ďalej bez prerušenia, obraz sa pripraví vopred
 - ✅ Video na **celú obrazovku**
 
-### Nová domovská stránka (1.14 – 1.16)
+### Nová domovská stránka
 - ✅ **Top 5 skladieb** – tvoje najčastejšie počúvané skladby aj s počtom prehratí
 - ✅ **Vyhľadávanie** priamo z domovskej stránky
 - ✅ **Posledné 3 vyhľadávania** – ťuknutím ich zopakuješ, dajú sa vymazať
 - ✅ Sekcia *Tvoje obľúbené* bola z Domova odstránená, aby bola stránka prehľadnejšia
 
-### Aktualizácie vo všetkých jazykoch (1.15)
+### Aktualizácie vo všetkých jazykoch
 - ✅ Popis novej verzie sa zobrazí v jazyku aplikácie – slovensky, anglicky, nemecky alebo maďarsky
 
-### Bezpečnosť (1.19)
+### Bezpečnosť
 - ✅ Aplikácia už nemá oprávnenie inštalovať iné aplikácie – aktualizáciu stiahne prehliadač a nainštaluješ ju ty (Google Play Protect ju už neoznačuje)
 - ✅ Nešifrované spojenie je povolené len pre niekoľko rádií, ktoré iné nemajú
 - ✅ Aplikácia nemá prístup k tvojim súborom, fotkám ani kontaktom – pracuje len so svojimi súbormi
-
----
-
-## 🆕 Novinky vo verzii 1.12
-
-### Playlisty
-- ✅ Vlastné zoznamy skladieb – vytvor si ich koľko chceš
-- ✅ Nová záložka **Playlisty** v spodnom menu
-- ✅ Pridávanie skladieb z knižnice jedným ťuknutím
-- ✅ Prehranie celého playlistu vrátane automatického prechodu na ďalšiu skladbu
-- ✅ Premenovanie a mazanie zoznamov
-- ✅ Zmazanie playlistu ti skladby z knižnice nezmaže
-
-### Aplikácia hovorí štyrmi jazykmi
-- ✅ Slovenčina, angličtina, nemčina a maďarčina
-- ✅ Prepínač na obrazovke **Domov** vpravo hore pod ikonou glóbusu
-- ✅ Voľba *Podľa systému* prevezme jazyk telefónu
-- ✅ Jazyk sa prepne okamžite, bez reštartu
 
 ---
 
@@ -154,13 +136,8 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 | 1.6 | Spoľahlivá kontrola dostupnosti novej verzie | vydané |
 | 1.8 | Ekvalizér, priestorový zvuk 8D, vyhľadávanie v knižnici | vydané |
 | 1.10 | Nový názov, 32 českých rádií, delenie podľa krajín | vydané |
-| 1.12 | Playlisty, štyri jazyky | vydané |
-| 1.14 | Domovská stránka: top 5, vyhľadávanie, posledné vyhľadávania | vydané |
-| 1.15 | Popis aktualizácie vo všetkých jazykoch | vydané |
-| 1.16 | Prehľadnejší Domov (bez sekcie obľúbených) | vydané |
-| 1.17 | Prehrávanie videa – voľba skladba alebo video | vydané |
-| 1.18 | Okamžité prepnutie video ↔ skladba, celá obrazovka | vydané |
-| **1.19** | Bezpečnosť – bez oprávnenia inštalovať aplikácie | **aktuálna** |
+| 1.12 – 1.18 | Aktualizácia systému | vydané |
+| **1.19** | Video, nová domovská stránka, aktualizácie vo všetkých jazykoch, bezpečnosť | **aktuálna** |
 
 ---
 
