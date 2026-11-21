@@ -2,9 +2,32 @@
 
 Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a českých rádií.
 
-**Aktuálna verzia: 1.12**
+**Aktuálna verzia: 1.19**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
+
+---
+
+## 🆕 Novinky vo verziách 1.14 – 1.19
+
+### Video (1.17 – 1.18)
+- ✅ Pri skladbe si vyberieš, či chceš počúvať **skladbu** alebo pozerať **video**
+- ✅ **Okamžité prepnutie** medzi skladbou a videom – zvuk hrá ďalej bez prerušenia, obraz sa pripraví vopred
+- ✅ Video na **celú obrazovku**
+
+### Nová domovská stránka (1.14 – 1.16)
+- ✅ **Top 5 skladieb** – tvoje najčastejšie počúvané skladby aj s počtom prehratí
+- ✅ **Vyhľadávanie** priamo z domovskej stránky
+- ✅ **Posledné 3 vyhľadávania** – ťuknutím ich zopakuješ, dajú sa vymazať
+- ✅ Sekcia *Tvoje obľúbené* bola z Domova odstránená, aby bola stránka prehľadnejšia
+
+### Aktualizácie vo všetkých jazykoch (1.15)
+- ✅ Popis novej verzie sa zobrazí v jazyku aplikácie – slovensky, anglicky, nemecky alebo maďarsky
+
+### Bezpečnosť (1.19)
+- ✅ Aplikácia už nemá oprávnenie inštalovať iné aplikácie – aktualizáciu stiahne prehliadač a nainštaluješ ju ty (Google Play Protect ju už neoznačuje)
+- ✅ Nešifrované spojenie je povolené len pre niekoľko rádií, ktoré iné nemajú
+- ✅ Aplikácia nemá prístup k tvojim súborom, fotkám ani kontaktom – pracuje len so svojimi súbormi
 
 ---
 
@@ -47,6 +70,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 
 ### Prehrávanie
 - ✅ Prehrávanie hudby priamo v telefóne
+- ✅ Prehrávanie videa s okamžitým prepnutím na skladbu a späť, aj na celú obrazovku
 - ✅ Hranie na pozadí aj pri zhasnutom displeji
 - ✅ Ovládanie z notifikácie a zo zamknutej obrazovky
 - ✅ Automatický prechod na ďalšiu skladbu
@@ -76,7 +100,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 - ✅ Zelená značka pri stiahnutých skladbách
 - ✅ Zmazanie iba stiahnutého súboru – skladba zostane v knižnici
 - ✅ Mazanie skladby vrátane súboru v telefóne
-- ✅ Obľúbené skladby na úvodnej obrazovke
+- ✅ Domov: top 5 skladieb, vyhľadávanie a posledné 3 vyhľadávania
 
 ### Vzhľad a jazyky
 - ✅ Tmavá téma v štýle hudobného prehrávača
@@ -88,9 +112,9 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 - ✅ Štyri jazyky na prepnutie priamo v aplikácii
 
 ### Aktualizácie
-- ✅ Automatické aktualizácie priamo v aplikácii
-- ✅ Ponuka aktualizácie s popisom zmien a veľkosťou
-- ✅ Sťahovanie s ukazovateľom priebehu
+- ✅ Aplikácia sama zistí novú verziu
+- ✅ Ponuka aktualizácie s popisom zmien (v jazyku aplikácie) a veľkosťou
+- ✅ Nová verzia sa stiahne cez prehliadač – aplikácia nepotrebuje oprávnenie inštalovať aplikácie
 - ✅ Okno sa zobrazí len ak je dostupná novšia verzia
 - ✅ Tlačidlo Preskočiť – verzia sa už viac neponúka
 - ✅ Nová verzia sa zostaví sama každé ráno, ak je čo vydávať
@@ -115,8 +139,6 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 
 ## Pripravujeme
 
-- ⬜ Prehrávanie videí
-- ⬜ Obsah na úvodnej obrazovke Domov
 - ⬜ Hromadné sťahovanie viacerých skladieb naraz
 - ⬜ Podpora starších telefónov
 
@@ -132,7 +154,13 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 | 1.6 | Spoľahlivá kontrola dostupnosti novej verzie | vydané |
 | 1.8 | Ekvalizér, priestorový zvuk 8D, vyhľadávanie v knižnici | vydané |
 | 1.10 | Nový názov, 32 českých rádií, delenie podľa krajín | vydané |
-| **1.12** | Playlisty, štyri jazyky | **aktuálna** |
+| 1.12 | Playlisty, štyri jazyky | vydané |
+| 1.14 | Domovská stránka: top 5, vyhľadávanie, posledné vyhľadávania | vydané |
+| 1.15 | Popis aktualizácie vo všetkých jazykoch | vydané |
+| 1.16 | Prehľadnejší Domov (bez sekcie obľúbených) | vydané |
+| 1.17 | Prehrávanie videa – voľba skladba alebo video | vydané |
+| 1.18 | Okamžité prepnutie video ↔ skladba, celá obrazovka | vydané |
+| **1.19** | Bezpečnosť – bez oprávnenia inštalovať aplikácie | **aktuálna** |
 
 ---
 
@@ -143,7 +171,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 3. Ak sa objaví upozornenie, povoľ **inštaláciu z tohto zdroja**
 4. Ťukni na **Inštalovať**
 
-> Ďalšie aktualizácie ti aplikácia ponúkne sama – stiahnuté skladby, knižnica ani playlisty sa pritom nestratia.
+> Ďalšie aktualizácie ti aplikácia ponúkne sama – stiahne ich prehliadač, potom ich len otvoríš a nainštaluješ. Stiahnuté skladby, knižnica ani playlisty sa pritom nestratia.
 
 ---
 
