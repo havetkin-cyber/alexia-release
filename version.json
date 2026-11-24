@@ -1,15 +1,15 @@
 {
-  "versionCode": 20,
-  "versionName": "1.20",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.20/AlexiaMusic-v1.20.apk",
-  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
+  "versionCode": 21,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.21/AlexiaMusic-v1.21.apk",
+  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
   "changelog_i18n": {
-    "sk": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.10.26. Vylepšenia a opravy chýb.",
-    "en": "Download engine yt-dlp updated to version 2026.10.26. Improvements and bug fixes.",
-    "de": "Download-Engine yt-dlp auf Version 2026.10.26 aktualisiert. Verbesserungen und Fehlerbehebungen.",
-    "hu": "A yt-dlp letöltőmotor frissítve a(z) 2026.10.26 verzióra. Fejlesztések és hibajavítások."
+    "sk": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
+    "en": "Download engine yt-dlp updated to version 2026.11.23. Improvements and bug fixes.",
+    "de": "Download-Engine yt-dlp auf Version 2026.11.23 aktualisiert. Verbesserungen und Fehlerbehebungen.",
+    "hu": "A yt-dlp letöltőmotor frissítve a(z) 2026.11.23 verzióra. Fejlesztések és hibajavítások."
   },
-  "ytDlpVersion": "2026.10.26",
+  "ytDlpVersion": "2026.11.23",
   "sizeMb": "50",
-  "releaseDate": "2026-11-21"
+  "releaseDate": "2026-11-24"
 }
