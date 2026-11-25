@@ -2,13 +2,13 @@
 
 Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a českých rádií.
 
-**Aktuálna verzia: 1.22**
+**Aktuálna verzia: 1.23**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
 
 ---
 
-## 🆕 Novinky vo verzii 1.22
+## 🆕 Novinky vo verzii 1.23
 
 ### Widget na plochu
 - ✅ Názov práve hranej skladby a tlačidlá **predchádzajúca / hraj–pauza / ďalšia**
