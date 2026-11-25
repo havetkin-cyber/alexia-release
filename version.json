@@ -1,15 +1,15 @@
 {
-  "versionCode": 21,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.21/AlexiaMusic-v1.21.apk",
-  "changelog": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
+  "versionCode": 22,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.22/AlexiaMusic-v1.22.apk",
+  "changelog": "Nové: widget na plochu (názov skladby, predchádzajúca / hraj / ďalšia), Android Auto (knižnica, playlisty a rádiá v aute) a aktualizácia priamo v appke – stiahne sa a nainštaluje sama. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
   "changelog_i18n": {
-    "sk": "Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
-    "en": "Download engine yt-dlp updated to version 2026.11.23. Improvements and bug fixes.",
-    "de": "Download-Engine yt-dlp auf Version 2026.11.23 aktualisiert. Verbesserungen und Fehlerbehebungen.",
-    "hu": "A yt-dlp letöltőmotor frissítve a(z) 2026.11.23 verzióra. Fejlesztések és hibajavítások."
+    "sk": "Nové: widget na plochu (názov skladby, predchádzajúca / hraj / ďalšia), Android Auto (knižnica, playlisty a rádiá v aute) a aktualizácia priamo v appke – stiahne sa a nainštaluje sama. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
+    "en": "New: home screen widget (song title, previous / play / next), Android Auto (library, playlists and radios in the car) and updates right in the app – downloads and installs by itself. Download engine yt-dlp updated to version 2026.11.23. Improvements and bug fixes.",
+    "de": "Neu: Widget für den Startbildschirm (Titel, zurück / abspielen / weiter), Android Auto (Bibliothek, Playlists und Radios im Auto) und Updates direkt in der App – wird selbst heruntergeladen und installiert. Download-Engine yt-dlp auf Version 2026.11.23 aktualisiert. Verbesserungen und Fehlerbehebungen.",
+    "hu": "Új: kezdőképernyő-widget (dal címe, előző / lejátszás / következő), Android Auto (könyvtár, lejátszási listák és rádiók az autóban) és frissítés közvetlenül az alkalmazásban – magától letölti és telepíti. A yt-dlp letöltőmotor frissítve a(z) 2026.11.23 verzióra. Fejlesztések és hibajavítások."
   },
   "ytDlpVersion": "2026.11.23",
   "sizeMb": "50",
-  "releaseDate": "2026-11-24"
+  "releaseDate": "2026-11-25"
 }
