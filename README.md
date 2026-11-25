@@ -2,9 +2,27 @@
 
 Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a českých rádií.
 
-**Aktuálna verzia: 1.19**
+**Aktuálna verzia: 1.22**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
+
+---
+
+## 🆕 Novinky vo verzii 1.22
+
+### Widget na plochu
+- ✅ Názov práve hranej skladby a tlačidlá **predchádzajúca / hraj–pauza / ďalšia**
+- ✅ Pridáš ho dlhým podržaním na ploche → Widgety → Alexia Music
+
+### Android Auto
+- ✅ Alexia Music sa ukáže v aute medzi hudobnými aplikáciami
+- ✅ V aute prechádzaš **Knižnicu, Playlisty a Rádiá** a ovládaš prehrávanie z auta
+- ✅ Knižnicu môže prechádzať len Android Auto, systém a aplikácia sama – iné aplikácie nie
+
+### Aktualizácia priamo v aplikácii
+- ✅ Klepneš na Aktualizovať – nová verzia sa **stiahne a nainštaluje sama**, bez hľadania v Stiahnutých
+- ✅ Prvýkrát treba povoliť „Inštalovať neznáme aplikácie“ pre Alexia Music, od Androidu 12 ďalšie aktualizácie bez potvrdzovania
+- ℹ️ Oprávnenie inštalovať sa používa **len na vlastné aktualizácie** z tohto vydania
 
 ---
 
@@ -52,6 +70,7 @@ Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a 
 
 ### Prehrávanie
 - ✅ Prehrávanie hudby priamo v telefóne
+- ✅ Widget na plochu a Android Auto
 - ✅ Prehrávanie videa s okamžitým prepnutím na skladbu a späť, aj na celú obrazovku
 - ✅ Hranie na pozadí aj pri zhasnutom displeji
 - ✅ Ovládanie z notifikácie a zo zamknutej obrazovky
