@@ -1,10 +1,32 @@
 # 🎵 Alexia Music Player
 
-Hudobný prehrávač pre Android s podporou offline počúvania, slovenských a českých rádií.
+Hudobný prehrávač pre **Android, iPhone a Linux** s podporou offline počúvania, slovenských a českých rádií.
 
-**Aktuálna verzia: 1.23**
+**Aktuálna verzia: 1.24**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
+
+---
+
+## 🆕 Novinky vo verzii 1.24
+
+### Alexia Music aj pre iPhone a Linux
+- ✅ **Rovnaká appka ako na Androide** – tie isté obrazovky, farby, písmo aj ikony, rovnaké funkcie: hľadanie, knižnica, rádiá, playlisty, video, ekvalizér a 8D zvuk
+- ✅ Všetky tri verzie sa vydávajú naraz a majú rovnaké číslo verzie
+
+### 🐧 Linux (AppImage) – Ubuntu, Fedora, SteamOS / Steam Deck…
+1. Stiahni `AlexiaMusic-v…-x86_64.AppImage` z [najnovšieho vydania](https://github.com/havetkin-cyber/alexia-release/releases/latest)
+2. Pravým klikom → Vlastnosti → povoľ **Spustiteľný** (alebo `chmod +x AlexiaMusic-*.AppImage`)
+3. Dvojklik – appka sa sama pridá do ponuky aplikácií (Steam Deck: v Desktop Mode → *Add to Steam*)
+- ✅ Aktualizuje sa **úplne sama** – klepneš na Aktualizovať, stiahne sa, nahradí a reštartuje
+- ℹ️ Pri prvom spustení treba internet (stiahne si yt-dlp, ktorý sa potom aktualizuje sám)
+
+### 📱 iPhone / iPad (iOS 16 a novší)
+1. Stiahni `AlexiaMusic-iOS-v….ipa` z [najnovšieho vydania](https://github.com/havetkin-cyber/alexia-release/releases/latest)
+2. Nainštaluj ho cez **AltStore**, **SideStore** alebo **Sideloadly** (s bezplatným Apple ID)
+- ✅ Aktualizácie: v AltStore / SideStore pridaj zdroj `https://github.com/havetkin-cyber/alexia-release/releases/latest/download/altstore.json` – nové verzie ponúkne sám; appka ich ponúkne aj sama
+- ℹ️ S bezplatným Apple ID treba podpis obnoviť raz za 7 dní (AltStore / SideStore to robí automaticky)
+- ℹ️ Na iPhone nie je widget na plochu ani CarPlay (Apple to bez platenej licencie nedovolí); ovládanie zo zamknutej obrazovky funguje
 
 ---
 
