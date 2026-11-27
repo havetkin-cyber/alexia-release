@@ -2,14 +2,14 @@
   "versionCode": 24,
   "versionName": "1.24",
   "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.24/AlexiaMusic-v1.24.apk",
-  "changelog": "Alexia Music je teraz aj pre iPhone a Linux (AppImage) – rovnaká appka ako na Androide. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
+  "changelog": "Linux / SteamOS: oprava – appka si sama stiahne yt-dlp a aktualizuje ho pri každom štarte, priložený ffmpeg sa dá spustiť (hudba a video hrajú aj na Steam Decku). Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
   "changelog_i18n": {
-    "sk": "Alexia Music je teraz aj pre iPhone a Linux (AppImage) – rovnaká appka ako na Androide. Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
-    "en": "Alexia Music is now also available for iPhone and Linux (AppImage) – the same app as on Android. Download engine yt-dlp updated to version 2026.11.23. Improvements and bug fixes.",
-    "de": "Alexia Music gibt es jetzt auch für iPhone und Linux (AppImage) – dieselbe App wie auf Android. Download-Engine yt-dlp auf Version 2026.11.23 aktualisiert. Verbesserungen und Fehlerbehebungen.",
-    "hu": "Az Alexia Music mostantól iPhone-ra és Linuxra (AppImage) is elérhető – ugyanaz az alkalmazás, mint Androidon. A yt-dlp letöltőmotor frissítve a(z) 2026.11.23 verzióra. Fejlesztések és hibajavítások."
+    "sk": "Linux / SteamOS: oprava – appka si sama stiahne yt-dlp a aktualizuje ho pri každom štarte, priložený ffmpeg sa dá spustiť (hudba a video hrajú aj na Steam Decku). Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
+    "en": "Linux / SteamOS: fix – the app downloads yt-dlp by itself and updates it on every start, the bundled ffmpeg now runs (music and video play on Steam Deck too). Download engine yt-dlp updated to version 2026.11.23. Improvements and bug fixes.",
+    "de": "Linux / SteamOS: Korrektur – die App lädt yt-dlp selbst herunter und aktualisiert es bei jedem Start, das mitgelieferte ffmpeg läuft jetzt (Musik und Video auch auf dem Steam Deck). Download-Engine yt-dlp auf Version 2026.11.23 aktualisiert. Verbesserungen und Fehlerbehebungen.",
+    "hu": "Linux / SteamOS: javítás – az alkalmazás magától letölti a yt-dlp-t és minden indításkor frissíti, a mellékelt ffmpeg most már fut (zene és videó Steam Decken is). A yt-dlp letöltőmotor frissítve a(z) 2026.11.23 verzióra. Fejlesztések és hibajavítások."
   },
   "ytDlpVersion": "2026.11.23",
   "sizeMb": "50",
-  "releaseDate": "2026-11-26"
+  "releaseDate": "2026-11-27"
 }
