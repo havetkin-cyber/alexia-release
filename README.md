@@ -2,11 +2,15 @@
 
 Hudobný prehrávač pre **Android, iPhone a Linux** s podporou offline počúvania, slovenských a českých rádií.
 
-**Aktuálna verzia: 1.24**
+**Aktuálna verzia: 1.25**
 
 [⬇️ Stiahnuť najnovšiu verziu](https://github.com/havetkin-cyber/alexia-release/releases/latest)
 
 ---
+
+## 🆕 Novinky vo verzii 1.25
+
+- ✅ **Steam Deck / Linux:** appka si sama stiahne yt-dlp a aktualizuje ho pri každom štarte, opravené prehrávanie (priložený ffmpeg)
 
 ## 🆕 Novinky vo verzii 1.24
 
