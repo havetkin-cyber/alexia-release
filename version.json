@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.24/AlexiaMusic-v1.24.apk",
+  "versionCode": 25,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/havetkin-cyber/alexia-release/releases/download/v1.25/AlexiaMusic-v1.25.apk",
   "changelog": "Linux / SteamOS: oprava – appka si sama stiahne yt-dlp a aktualizuje ho pri každom štarte, priložený ffmpeg sa dá spustiť (hudba a video hrajú aj na Steam Decku). Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
   "changelog_i18n": {
     "sk": "Linux / SteamOS: oprava – appka si sama stiahne yt-dlp a aktualizuje ho pri každom štarte, priložený ffmpeg sa dá spustiť (hudba a video hrajú aj na Steam Decku). Aktualizovaný sťahovací engine yt-dlp na verziu 2026.11.23. Vylepšenia a opravy chýb.",
