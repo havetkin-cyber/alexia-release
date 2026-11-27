@@ -14,27 +14,8 @@ Hudobný prehrávač pre **Android, iPhone a Linux** s podporou offline počúva
 - ✅ **Rovnaká appka ako na Androide** – tie isté obrazovky, farby, písmo aj ikony, rovnaké funkcie: hľadanie, knižnica, rádiá, playlisty, video, ekvalizér a 8D zvuk
 - ✅ Všetky tri verzie sa vydávajú naraz a majú rovnaké číslo verzie
 
-### 🐧 Linux / SteamOS (Steam Deck, Legion Go S, Ubuntu, Fedora…)
-V Desktop Mode otvor **Konsole**, vlož tento riadok (Ctrl+Shift+V) a stlač Enter:
-
-```bash
-cd ~ && curl -L -o AlexiaMusic.AppImage https://github.com/havetkin-cyber/alexia-release/releases/latest/download/AlexiaMusic-x86_64.AppImage && chmod +x AlexiaMusic.AppImage && ./AlexiaMusic.AppImage
-```
-
-Stiahne appku do domovského priečinka, povolí jej spustenie a spustí ju. Pri prvom spustení sa Alexia Music
-sama pridá do **ponuky aplikácií**. Do Steamu: *Steam → Pridať hru → Pridať hru mimo Steamu → Alexia Music*
-(bez Protonu – je to linuxová appka).
-- ✅ Aktualizuje sa **úplne sama** – klepneš na Aktualizovať, stiahne sa, nahradí a reštartuje
-- ℹ️ Pri prvom spustení treba internet (stiahne si yt-dlp, ktorý sa potom aktualizuje sám)
-
-Ak by appka nešla spustiť, chyba je v `~/.local/share/AlexiaMusic/posledne-spustenie.log`.
-
-### 📱 iPhone / iPad (iOS 16 a novší)
-1. Stiahni `AlexiaMusic-iOS-v….ipa` z [najnovšieho vydania](https://github.com/havetkin-cyber/alexia-release/releases/latest)
-2. Nainštaluj ho cez **AltStore**, **SideStore** alebo **Sideloadly** (s bezplatným Apple ID)
-- ✅ Aktualizácie: v AltStore / SideStore pridaj zdroj `https://github.com/havetkin-cyber/alexia-release/releases/latest/download/altstore.json` – nové verzie ponúkne sám; appka ich ponúkne aj sama
-- ℹ️ S bezplatným Apple ID treba podpis obnoviť raz za 7 dní (AltStore / SideStore to robí automaticky)
-- ℹ️ Na iPhone nie je widget na plochu ani CarPlay (Apple to bez platenej licencie nedovolí); ovládanie zo zamknutej obrazovky funguje
+- 🎮 **Steam Deck / Linux:** [návod na inštaláciu](#-inštalácia-na-steam-deck--linux)
+- 📱 **iPhone / iPad:** [návod na inštaláciu](#-inštalácia-na-iphone--ipad)
 
 ---
 
@@ -192,6 +173,12 @@ Ak by appka nešla spustiť, chyba je v `~/.local/share/AlexiaMusic/posledne-spu
 
 ## Inštalácia
 
+- 🤖 [Android](#-inštalácia-na-android)
+- 🎮 [Steam Deck / Linux](#-inštalácia-na-steam-deck--linux)
+- 📱 [iPhone / iPad](#-inštalácia-na-iphone--ipad)
+
+### 🤖 Inštalácia na Android
+
 1. Stiahni si súbor `.apk` zo sekcie [Releases](https://github.com/havetkin-cyber/alexia-release/releases/latest)
 2. V telefóne ho otvor cez **Súbory**
 3. Ak sa objaví upozornenie, povoľ **inštaláciu z tohto zdroja**
@@ -199,9 +186,65 @@ Ak by appka nešla spustiť, chyba je v `~/.local/share/AlexiaMusic/posledne-spu
 
 > Ďalšie aktualizácie ti aplikácia ponúkne sama – stiahne ich prehliadač, potom ich len otvoríš a nainštaluješ. Stiahnuté skladby, knižnica ani playlisty sa pritom nestratia.
 
+### 🎮 Inštalácia na Steam Deck / Linux
+
+Funguje na Steam Decku, Legion Go S a ďalších zariadeniach so SteamOS, aj na Ubuntu, Fedore, Mint, Arch… (x86_64).
+
+**1. Prepni do Desktop Mode**
+Stlač tlačidlo **Steam** → **Napájanie** → **Prepnúť na plochu** (*Switch to Desktop*).
+
+**2. Otvor Konsole**
+Vľavo dole ikona ponuky → **Systém** → **Konsole**.
+
+**3. Vlož tento riadok (Ctrl+Shift+V) a stlač Enter:**
+
+```bash
+cd ~ && curl -L -o AlexiaMusic.AppImage https://github.com/havetkin-cyber/alexia-release/releases/latest/download/AlexiaMusic-x86_64.AppImage && chmod +x AlexiaMusic.AppImage && ./AlexiaMusic.AppImage
+```
+
+Stiahne appku do domovského priečinka, povolí jej spustenie a spustí ju. Pri prvom spustení sa Alexia Music
+sama pridá do **ponuky aplikácií** (Multimédiá) a stiahne si **yt-dlp** – na to treba internet.
+
+**4. Pridanie do Steamu (Herný režim)**
+V Desktop Mode otvor **Steam** → vľavo dole **Pridať hru** → **Pridať hru mimo Steamu** → zaškrtni **Alexia Music Player** → **Pridať vybrané programy**.
+Nepoužívaj Proton – je to linuxová appka. Potom sa vráť do Herného režimu (ikona **Návrat do Herného režimu** na ploche) a appku nájdeš v knižnici medzi hrami mimo Steamu.
+
+- ✅ Aktualizuje sa **úplne sama** – klepneš na Aktualizovať, stiahne sa, nahradí a reštartuje
+- ✅ yt-dlp sa aktualizuje sám pri každom spustení
+- ℹ️ Ovládanie: dotyková obrazovka, touchpad ako myš, **Esc** = späť
+
+Ak by appka nešla spustiť, chyba je v `~/.local/share/AlexiaMusic/posledne-spustenie.log`.
+Odinštalovanie: zmaž `~/AlexiaMusic.AppImage` a priečinok `~/.local/share/AlexiaMusic`.
+
+### 📱 Inštalácia na iPhone / iPad
+
+Apple nedovoľuje inštalovať appky mimo App Store priamo, preto sa Alexia Music inštaluje cez **AltStore** alebo **SideStore** (zadarmo, stačí bežné Apple ID). Treba iOS / iPadOS 16 alebo novší.
+
+**1. Nainštaluj AltStore**
+- Na počítači (Windows alebo Mac) stiahni a spusti **AltServer** z [altstore.io](https://altstore.io)
+- Pripoj iPhone káblom, v ikone AltServer (lišta / oblasť oznámení) zvoľ **Install AltStore** → tvoj iPhone → prihlás sa svojím Apple ID
+- V iPhone: **Nastavenia → Všeobecné → VPN a správa zariadení** → svoje Apple ID → **Dôverovať**
+- Od iOS 16: **Nastavenia → Súkromie a bezpečnosť → Režim vývojára** → zapni a reštartuj iPhone
+
+**2. Pridaj zdroj Alexia Music**
+V AltStore → **Sources** (Zdroje) → **+** → vlož adresu:
+
+```
+https://github.com/havetkin-cyber/alexia-release/releases/latest/download/altstore.json
+```
+
+**3. Nainštaluj appku**
+V zdroji Alexia Music ťukni na **FREE / Inštalovať**.
+(Alebo stiahni `AlexiaMusic-iOS-v….ipa` z [najnovšieho vydania](https://github.com/havetkin-cyber/alexia-release/releases/latest), otvor ho v AltStore cez **My Apps → +**, prípadne nainštaluj cez **Sideloadly**.)
+
+- ✅ Nové verzie ponúkne AltStore aj samotná appka
+- ℹ️ S bezplatným Apple ID platí podpis 7 dní – AltStore / SideStore ho obnoví sám, keď je iPhone v tej istej Wi-Fi ako počítač s AltServerom (SideStore to vie aj bez počítača)
+- ℹ️ Na iPhone nie je widget na plochu ani CarPlay (Apple to bez platenej licencie nedovolí); ovládanie zo zamknutej obrazovky funguje
+
 ---
 
 ## Požiadavky
 
-- Android 7.0 alebo novší
-- Približne 120 MB voľného miesta
+- **Android** 7.0 alebo novší, približne 120 MB voľného miesta
+- **Steam Deck / Linux** x86_64 (SteamOS 3, Ubuntu 20.04+, Fedora…), približne 400 MB voľného miesta
+- **iPhone / iPad** iOS 16 alebo novší, AltStore alebo SideStore
