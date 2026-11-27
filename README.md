@@ -14,12 +14,20 @@ Hudobný prehrávač pre **Android, iPhone a Linux** s podporou offline počúva
 - ✅ **Rovnaká appka ako na Androide** – tie isté obrazovky, farby, písmo aj ikony, rovnaké funkcie: hľadanie, knižnica, rádiá, playlisty, video, ekvalizér a 8D zvuk
 - ✅ Všetky tri verzie sa vydávajú naraz a majú rovnaké číslo verzie
 
-### 🐧 Linux (AppImage) – Ubuntu, Fedora, SteamOS / Steam Deck…
-1. Stiahni `AlexiaMusic-v…-x86_64.AppImage` z [najnovšieho vydania](https://github.com/havetkin-cyber/alexia-release/releases/latest)
-2. Pravým klikom → Vlastnosti → povoľ **Spustiteľný** (alebo `chmod +x AlexiaMusic-*.AppImage`)
-3. Dvojklik – appka sa sama pridá do ponuky aplikácií (Steam Deck: v Desktop Mode → *Add to Steam*)
+### 🐧 Linux / SteamOS (Steam Deck, Legion Go S, Ubuntu, Fedora…)
+V Desktop Mode otvor **Konsole**, vlož tento riadok (Ctrl+Shift+V) a stlač Enter:
+
+```bash
+cd ~ && curl -L -o AlexiaMusic.AppImage https://github.com/havetkin-cyber/alexia-release/releases/latest/download/AlexiaMusic-x86_64.AppImage && chmod +x AlexiaMusic.AppImage && ./AlexiaMusic.AppImage
+```
+
+Stiahne appku do domovského priečinka, povolí jej spustenie a spustí ju. Pri prvom spustení sa Alexia Music
+sama pridá do **ponuky aplikácií**. Do Steamu: *Steam → Pridať hru → Pridať hru mimo Steamu → Alexia Music*
+(bez Protonu – je to linuxová appka).
 - ✅ Aktualizuje sa **úplne sama** – klepneš na Aktualizovať, stiahne sa, nahradí a reštartuje
 - ℹ️ Pri prvom spustení treba internet (stiahne si yt-dlp, ktorý sa potom aktualizuje sám)
+
+Ak by appka nešla spustiť, chyba je v `~/.local/share/AlexiaMusic/posledne-spustenie.log`.
 
 ### 📱 iPhone / iPad (iOS 16 a novší)
 1. Stiahni `AlexiaMusic-iOS-v….ipa` z [najnovšieho vydania](https://github.com/havetkin-cyber/alexia-release/releases/latest)
